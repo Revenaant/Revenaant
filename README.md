@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rodrigo 🎮</h1>
 
-<h3 align="center">I'm generalist programmer and I enjoy being in the thick of a development team,  connecting multiple disciplines.</h3>
+<h3 align="center">I'm generalist programmer and I enjoy being in the thick of a development team, connecting disciplines.</h3>
 
 <p align="center"><b>I usually work with these:</b></p>
 <p align="center">
